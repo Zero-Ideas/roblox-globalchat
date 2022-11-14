@@ -1,1 +1,1 @@
-https://2448-2001-569-5276-bd00-291c-d6ea-a70e-b8e9.ngrok.io
+tcp://2.tcp.ngrok.io:19150
