@@ -1,1 +1,1 @@
-https://8c20-64-114-197-174.ngrok.io
+localhost:69
