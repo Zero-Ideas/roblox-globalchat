@@ -1,1 +1,1 @@
-localhost:69
+https://7dca-154-20-170-233.ngrok.io
